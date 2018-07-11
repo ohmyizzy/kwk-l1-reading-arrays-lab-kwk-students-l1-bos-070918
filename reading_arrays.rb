@@ -35,5 +35,8 @@ end
 def first_second_and_third_students
   # Write a solution 
   result = []
-  result.append
+  result << STUDENT_NAMES.first
+  result << STUDENT_NAMES[1]
+  result << STUDENT_NAMES[2]
+  return result
 end
