@@ -34,5 +34,6 @@ end
 
 def first_second_and_third_students
   # Write a solution 
-  result = [STUDENT_NAMES.first, STUDENT_NAMES[1]. STUDENT_NAMES[2]]
+  result = []
+  result.append
 end
